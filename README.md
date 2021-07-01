@@ -2,7 +2,7 @@
 
 ## Project Overview:  
 
-After Louise's play Fever missed its fundrasing goal by a small amount in a short time period a request was made to assess the relationship between the Launch date of a Kickstarter project and it's funding Goal.  Using the provided Kickstarter dataset, an analysis was performed using Microsoft Excel and visualizations were created to express the findings. 
+After Louise's play Fever missed its fundrasing goal a request was made to assess the relationship between the Launch date of a Kickstarter project and it's funding Goal.  Using the provided Kickstarter dataset, an analysis was performed using Microsoft Excel as detailed below.  The results and conclusion of this analysis are included in this report   
 
 
 
@@ -10,6 +10,7 @@ After Louise's play Fever missed its fundrasing goal by a small amount in a shor
 
 
 ## Analysis and Challenges
+This analysis was performed using the provided Kickstarter data and MS Excel.  The data was transformed into two pivot tables
 
 
 
