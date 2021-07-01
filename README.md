@@ -12,10 +12,11 @@ After Louise's play Fever missed its fundrasing goal a request was made to asses
 ## Analysis and Challenges
 This analysis was performed using several of the tools/methods offered within excel.  Those tools included pivot tables, line graphs, and data extraction using formulas.  Details pertaining to the structure of the analysis, as well as challenges that were encountered, are explained below.
 
-#### Analysis Details
+  #### Analysis Details
 
-  1.  Added a year column to the data by extracting each that from its Launch Date [Screen shot of Formula](resources/Year_Column.png)
-  2.  
+    1.  Added a year column to the data by extracting each that from its Launch Date [Screen shot of Year Formula](resources/Year_Column.png)
+    2.  Created pivot tables of outcomes by Funding Goals and by Launch Date
+    3.  
 
 
 
