@@ -14,9 +14,9 @@ This analysis was performed using several of the tools/methods offered within ex
 
   #### Analysis Details
 
-    1.  Added a year column to the data by extracting each that from its Launch Date [Screen shot of Year Formula](resources/Year_Column.png)
-    2.  Created pivot tables of outcomes by Funding Goals and by Launch Date
-    3.  
+  1.  Added a year column to the data by extracting each that from its Launch Date [Screen shot of Year Formula](resources/Year_Column.png)
+  2.  Created pivot tables of outcomes by Funding Goals and by Launch Date
+  3.  
 
 
 
