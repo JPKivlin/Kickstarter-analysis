@@ -14,9 +14,8 @@ This analysis was performed using several of the tools/methods offered within ex
 
   #### Analysis Details
 
-  1.  Added a year column to the data by extracting each that from its Launch Date [Screen shot of Year Formula](resources/Year_Column.png)
-  2.  Created pivot tables of outcomes by Funding Goals and by Launch Date
-  3.  
+  1.  Extracted the year from each launch data to populate a new column [Screen shot of Year Formula](resources/Year_Column.png)
+  2.  Created a pivot table of outcomes by Launch Date and filtered the data for data only pertaining to theaters [Outcomes by Launch Date Pivot Table]
 
 
 
