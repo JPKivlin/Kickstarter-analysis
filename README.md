@@ -19,7 +19,8 @@ This analysis was performed using several of the tools/methods offered within ex
   3.  Based on the Pivot table a line chart was created to visualize the number of outcomes (successful/failed/canceled) over the course of the year by month [Theater Outcomes by Launch Date Chart](resources/Theater_Outcomes_vs_Launch)
   4.  Created new worksheet labeled "Outcomes Based on Goals"
   5.  Using the goal ranges provided, the countifs() function (see screen shot) was used to populate the table  [Outcomes Based on Goals](Outcomes_Goals_Table)
-  6.  Based on the Outcomes Based on Goals table a line chart was created to visualize the number of outcomes (successful/failed/canceled) based on the established goal ranges 
+  6.  Based on the Outcomes Based on Goals table a line chart was created to visualize the number of outcomes (successful/failed/canceled) based on the established goal ranges [Outcomes by Goals line chart](resources/Outcomes_vs_Goals)
+  7.   
 
 #### Challenges
 
