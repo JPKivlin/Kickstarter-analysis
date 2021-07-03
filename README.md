@@ -20,10 +20,12 @@ This analysis was performed using several of the tools/methods offered within ex
   4.  Created new worksheet labeled "Outcomes Based on Goals"
   5.  Using the goal ranges provided, the countifs() function (see screen shot) was used to populate the table  [Outcomes Based on Goals](Outcomes_Goals_Table.png)
   6.  Based on the Outcomes Based on Goals table a line chart was created to visualize the number of outcomes (successful/failed/canceled) based on the established goal ranges [Outcomes by Goals line chart](resources/Outcomes_vs_Goals.png)
-  7.   
 
 #### Challenges
-
+  1.  To make the code more efficient for the "Outcomes Based on Goals" worksheet I created a small reference table to the right.  That was tricky to get working at first, but I was able to achieve the desired outcome.
+  2.  Other challenges could include using the logical opporators in the Countifs function
 
 
 ## Results
+
+
